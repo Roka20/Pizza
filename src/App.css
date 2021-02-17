@@ -73,12 +73,12 @@ body {
 }
 .banner-text h3 {
   margin-top: 50px;
-  font-size: 50px;
+  font-size: 40px;
   text-shadow: 2px 2px #bb4904;
 
 }
 .banner-text h1{
-  font-size: 80px;
+  font-size: 60px;
   line-height: 80px;
   font-weight: 900;
   margin-top: 20px;
@@ -86,7 +86,7 @@ body {
 
 }
 .banner-text p {
-  font-size: 25px;
+  font-size: 23px;
   font-weight: 400;
   margin-top: 20px;
   text-shadow: 1px 0px #ca5f1c;
@@ -133,7 +133,7 @@ body {
 /* end navbar */
 /* start btns */
 .btn-danger{
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 800;
   border-radius: 25px;
   padding-left: 35px;
@@ -361,9 +361,7 @@ body {
 .footer img{
   margin-bottom: 10px;
 }
-/* .col-8{
-  margin-left: 5px;
-} */
+
 .footer .fa-map-marker-alt{
   margin-left: 50px;
 }
@@ -392,6 +390,12 @@ body {
 .fa-calendar-alt{
   font-size: 10px;
 
+}
+.footer .recent-blog{
+  width: 100%;
+}
+.footer .recent-blog .col-8 .col{
+  margin-left: 3px;
 }
 /* end footer */
 

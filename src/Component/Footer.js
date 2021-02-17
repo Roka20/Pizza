@@ -48,6 +48,7 @@ class Footer extends Component {
 
                               </div>
                           </div>
+                          </div>
                           <div className="row">
                           <div className="col-4">
                               <img src="./image/pizzas5.jpg" alt="pizza" style={{width:80 , height:80}}/>
@@ -73,7 +74,7 @@ class Footer extends Component {
         
                       </div>
                      </div>
-                      </div>
+                      
                       <div className="col-3">
                           <div className="services">
                           <h5>Services</h5>
