@@ -8,7 +8,7 @@ class Footer extends Component {
             <div className="footer">
               <div className="container">
                 <div className="row">
-                  <div className="col-lg-3 col-md-6 mb-5 mb-md-5">
+                  <div className="col-3">
                     <div className="about-Us">
                         <h5>About Us</h5> 
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -25,7 +25,7 @@ class Footer extends Component {
                         </div>
                     </div>
                   </div>
-                  <div className="col-lg-4 col-md-6 mb-5 mb-md-5">
+                  <div className="col-3">
                      <div className="recent-blog">
                      <h5>RECENT BLOG</h5>
                       <div className="row">
@@ -53,13 +53,11 @@ class Footer extends Component {
                               <img src="./image/pizzas5.jpg" alt="pizza" style={{width:80 , height:80}}/>
 
                           </div>
-                          <div className="col">
+                          <div className="col-8">
                               <p>Even the all-powerful Pointing has no control about</p>
                               <div className="row">
                                   <div className="col">
-                                      
                                   <i className="fas fa-calendar-alt fa-xs">Sept 15,2018</i>
-                                  
                                   </div>
                                   <div className="col">
                                   <i className="fas fa-user fa-xs">admin</i>
@@ -71,13 +69,12 @@ class Footer extends Component {
                               </div>
                           </div>
 
-
                           </div>
         
                       </div>
                      </div>
                       </div>
-                      <div className="col-lg-5 col-md-6 mb-5 mb-md-5">
+                      <div className="col-3">
                           <div className="services">
                           <h5>Services</h5>
                           <ul>
@@ -91,7 +88,7 @@ class Footer extends Component {
 
                           </div>
                 </div>
-                <div className="col-lg-6 col-md-6 mb-5 mb-md-5">
+                <div className="col-3">
                   <div className="have-question">
                   <h5>HAVE A QUESTIONS?</h5>
                       <div className="row">

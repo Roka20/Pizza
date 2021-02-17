@@ -39,6 +39,9 @@ body {
   width: 33.33333333333333%;
   
 }
+.col-8{
+  width:60%
+}
 /* start header */
 .banner {
   width: 100%;
@@ -110,6 +113,7 @@ body {
 }
 .logo img{
   width: 220px;
+  margin-bottom: 5px;
 }
 .navbar-ul{
   width: 60%;
@@ -357,6 +361,9 @@ body {
 .footer img{
   margin-bottom: 10px;
 }
+/* .col-8{
+  margin-left: 5px;
+} */
 .footer .fa-map-marker-alt{
   margin-left: 50px;
 }
@@ -369,14 +376,15 @@ body {
 }
 .footer li{
   list-style: none;
-  text-align: center;
+  text-align: left;
   font-size: small;
 }
 .footer .have-question{
-  text-align: center;
+  text-align: left;
 }
 .footer .services{
-  text-align: center;
+  text-align: left;
+  margin-top: 10px;
 }
 .footer .services h5{
   margin-left: 25px;
